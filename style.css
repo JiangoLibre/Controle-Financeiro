@@ -66,11 +66,11 @@ h4 {
 }
 
 .money.plus {
-  color: #2ecc71;
+  color: #00FF00;
 }
 
 .money.minus {
-  color: #c0392b;
+  color: #FF0000;
 }
 
 label {
@@ -124,11 +124,11 @@ input[type='number'] {
 }
 
 .transactions li.plus {
-  border-right: 5px solid #2ecc71;
+  border-right: 5px solid #00FF00;
 }
 
 .transactions li.minus {
-  border-right: 5px solid #c0392b;
+  border-right: 5px solid #FF0000;
 }
 
 .delete-btn {
